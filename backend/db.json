@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Iphone 10",
       "price": 9456.22
+    },
+    {
+      "name": "Impressora",
+      "price": 800.99,
+      "id": 5
     }
   ]
 }
