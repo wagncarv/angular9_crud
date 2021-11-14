@@ -24,6 +24,26 @@
       "name": "Impressora",
       "price": 800.99,
       "id": 5
+    },
+    {
+      "name": "Impressora",
+      "price": 800.99,
+      "id": 6
+    },
+    {
+      "name": "veio do form",
+      "price": "10.99",
+      "id": 7
+    },
+    {
+      "name": "Mesa",
+      "price": "546.87",
+      "id": 8
+    },
+    {
+      "name": "Impressora",
+      "price": 800.99,
+      "id": 9
     }
   ]
 }

@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+}
+
+a, i {
+    background-color: #f0f2f5;
+    border-radius: 3px;
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > i {
+    color: #FFA500;
+}
+
+.delete > i {
+    color: #CD212A;
+}
