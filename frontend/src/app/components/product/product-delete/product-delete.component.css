@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 20px;
+}
+
+#excluir:hover {
+    background-color: #ea7b81;
+}
+
+#cancelar:hover {
+    background-color: #fbe9ea;
+}
